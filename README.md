@@ -2,13 +2,13 @@ Jharkhand Travel Website
 
 A modern, AI-powered travel platform designed to help people explore the beauty of Jharkhand, India. The website brings together interactive maps, intelligent trip planning, and a smart chatbot to make traveling easier, personalized, and more engaging.
 
-✨ What is this project about?
+ What is this project about?
 
 This project is a digital tourism platform for Jharkhand that combines:
 
-🗺️ Interactive destination guides – Explore attractions, culture, and hidden gems.
+Interactive destination guides – Explore attractions, culture, and hidden gems.
 
-🤖 AI-powered travel assistant – Ask questions, get instant answers, and personalized suggestions.
+AI-powered travel assistant – Ask questions, get instant answers, and personalized suggestions.
 
 📋 Trip planner – Build itineraries based on your preferences.
 
