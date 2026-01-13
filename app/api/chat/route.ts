@@ -48,7 +48,7 @@ You are a Jharkhand Travel Itinerary Planner.
       }),
       {
         status: 500,
-        headers: { "Content-Type": "application/json" },
+        headers: { "Content-Type": "application/json },
       }
     )
   }
